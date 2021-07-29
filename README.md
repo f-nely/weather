@@ -10,7 +10,7 @@
 
 ## Sobre o projeto
 
-<p>Projeto desenvolvido durante a semana de projetos práticos da B7Web.</p>
+<p>Projeto desenvolvido durante a semana de projetos práticos da B7Web. Sua função consiste em consultar o clima em tempo real</p>
 
 ### 🛠 Tecnologias
 
