@@ -25,6 +25,8 @@ document.querySelector('.busca').addEventListener('submit', async (event)=> {
             clearInfo();
             showWarning('Não encontramos esta localização.');
         }
+    } else {
+        clearInfo();
     }
     
 });
